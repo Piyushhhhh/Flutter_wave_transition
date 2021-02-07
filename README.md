@@ -2,9 +2,7 @@
 
 a flutter app showing page wave transition
 
-A new Flutter application.
 ![alt text](https://github.com/Piyushhhhh/Flutter_wave_transition/blob/main/assets/screenshots/Screenshot%202021-02-07%20at%203.37.52%20PM.png?raw=true)
-
 ![alt text](https://github.com/Piyushhhhh/Flutter_wave_transition/blob/main/assets/screenshots/Screenshot%202021-02-07%20at%203.38.02%20PM.png?raw=true)
 
 
